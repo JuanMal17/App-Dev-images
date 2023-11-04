@@ -1,13 +1,11 @@
-import React from 'react'
 
-const GifItem = ({title, url}) => {
-  
+export const GifItem = ({ tittle, url }) => {
+
   return (
-    <div className="card">
-      <img src={ url } alt={ title } />
-      <p>{ title }</p>
-    </div>
+      <div className="card">
+        <img src={ url } alt={ tittle } />
+        <p>{ tittle }</p>
+      </div>
   )
 }
 
-export default GifItem
