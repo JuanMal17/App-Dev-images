@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas GitItem  Match Snapshot  1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      src="https://one-punch.com/saitama.jpg"
+    />
+    <p />
+  </div>
+</div>
+`;
